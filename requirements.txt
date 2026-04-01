@@ -14,3 +14,4 @@ patchify
 scikit-image
 scipy
 PyYAML
+torch==2.1.2+cpu
